@@ -1,10 +1,3 @@
-**Title:**
-Password Generator App
-
-**Description:**
-Generate secure passwords with length and complexity customization using this Python GUI application.
-
-**Readme:**
 # Password Generator App
 
 This Python application allows users to generate strong and secure passwords with ease. The user-friendly graphical user interface (GUI) enables customization of password length, and a combination of characters ensures complexity.
@@ -22,4 +15,4 @@ This Python application allows users to generate strong and secure passwords wit
 3. Click "Generate Password."
 4. Copy the generated password with the "Copy to Clipboard" button.
 
-Feel free to customize the GUI, explore different themes, and enhance security with this Password Generator App.
+
